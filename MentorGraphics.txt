@@ -1,0 +1,20 @@
+C++
+    code compilation
+    C++11 concepts
+    Give a thorough read
+Data structures
+    B Tree
+    Graph
+Parallel programming and Associated design patterns
+    Signalling and promise
+Tickle[scripting language]
+
+linux text processing commands
+    Sed commands
+    Awk commands
+Js
+    D3
+    React
+    Angular
+    Jquery
+    ES6 Object Oriented
